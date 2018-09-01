@@ -38,7 +38,7 @@ Avaiable options:
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/loading.png"
+	"backgrounds/images/load.jpg"
 ];
 
 /*Random background images order?*/
