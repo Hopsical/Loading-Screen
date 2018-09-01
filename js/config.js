@@ -7,14 +7,6 @@
     version 2.05
 */
 
-/*URL for the server logo
-Leave it blank to use text instead*/
-var l_serverImage = "";
-
-/*Custom server name configuration
-Leave it blank for automatic server name*/
-var l_serverName = "The Cook Network";
-
 /*Use a video for the background?
 Otherwise it will just use images*/
 var l_bgVideo = false;
@@ -41,10 +33,6 @@ Avaiable options:
 "backgrounds/videos/orangeaura.webm"
 "backgrounds/videos/warminside.webm"
 "backgrounds/videos/yellowgreen.webm"
-
-You can add custom backgrounds
-Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
 
 /*(Image-background only)
 Place one or more images
